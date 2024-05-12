@@ -1,4 +1,4 @@
-# Ex.07 Software Product Company Website
+ # Ex.07 Software Product Company Website
 ## Date:27.03.2024
 
 ## AIM:
@@ -380,7 +380,7 @@ person.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by SANTHA RAMANATH M 212223220097 </center>
+        <center> Designed and Developed by HARINI S(212223004058) </center>
     </footer>
 </body>
 </html>
@@ -772,7 +772,7 @@ product.html
 </center>
 </div>
 <footer>
-<center> Designed and Developed by SANTHA RAMANATH M 212223220097 </center>
+<center> Designed and Developed by HARINI S(212223040058) </center>
 </footer>
 </body>
 </html>
